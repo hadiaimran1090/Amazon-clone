@@ -5,9 +5,13 @@
 
 This project is a frontend clone of the Amazon website, built using HTML5 and CSS3.
 The aim of this project was to replicate the design and layout of Amazon’s homepage, focusing on:
+
 Responsive web design
+
 Modern UI techniques
+
 Clean & semantic code
+
 It serves as a foundational step in my web development journey and highlights my skills in HTML & CSS.
 
 # 🛠️ Tech Stack
@@ -16,15 +20,21 @@ It serves as a foundational step in my web development journey and highlights my
 # ⚡ Features
 ✨ Core Features
 Fully responsive navigation bar
+
 Product grid layout with Amazon-like design
+
 Footer section styled to closely match the original site
 
 # ⚙️Setup & Installation
 
 Clone the Repository
+
 git clone https://github.com/hadiaimran1090/Amazon-clone.git
+
 Open in VS Code or any IDE
+
 Run the Project
+
 Simply open index.html in your browser
 
 
